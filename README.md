@@ -3,6 +3,3 @@ Các bạn có thể vào website http://coderga.com để tham khảo code củ
 Xem video tại https://www.youtube.com/coderga để xem đầy đủ hướng dẫn bằng video
 Facebook http://facebook.com
 
-Xin chao!!!!!!
-
-Test sử dụng vs code và github
