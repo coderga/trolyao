@@ -49,12 +49,7 @@ while True:
             robot_brain = "Bây giờ là " + now.strftime("%H {x} %M {y} %S {z}").format(x = 'giờ', y = 'phút', z = 'giây')
             print(robot_brain)
             speak(robot_brain)
-        # elif "wiki" in text:
-        #     wikipedia.set_lang("vi")
-        #     # robot_brain = wikipedia.summary(text, sentences=1)
-        #     robot_brain = wikipedia.summary(text)
-        #     print(robot_brain)
-        #     speak(robot_brain)
+
         elif "Goodbye" in text or "tạm biệt" in text:
             robot_brain = "tạm biệt"
             print(robot_brain)
