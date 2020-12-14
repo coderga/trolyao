@@ -1,4 +1,3 @@
-#### Chuong trinh tro ly ao lap trinh bang python
 import speech_recognition as sr
 from gtts import gTTS
 import os
