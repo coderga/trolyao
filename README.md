@@ -3,3 +3,4 @@ Các bạn có thể vào website http://coderga.com để tham khảo code củ
 Xem video tại https://www.youtube.com/coderga để xem đầy đủ hướng dẫn bằng video
 Facebook http://facebook.com
 
+nếu các bạn quen sử dụng vscode và muốn kết nối với github thì thử làm theo tutorial này nhé.!
